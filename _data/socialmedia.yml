@@ -4,12 +4,12 @@
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/guzhaolun
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: http://www.facebook.com/guzhaolun.media
   class: icon-facebook
   title: "Lass uns Freunde sein!"
 
@@ -19,7 +19,7 @@
   title: "Sounds und Downloads und mehr"
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/guzhaolun
   class: icon-github
   title: Code und mehr...
 
