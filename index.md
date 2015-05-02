@@ -9,15 +9,15 @@ title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://guzhaolun.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    title: "开篇！"
+    url: 'http://guzhaolun.github.io/blog/test'
+    text: '记录下自己学习的点滴，希望可以坚持！'
     image: unsplash_9-302x182.jpg
 widget-2:
-    title: "我的第一篇博客！"
-    url: 'http://guzhaolun.github.io/design/test/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://guzhaolun.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    title: "ML, awesome！"
+    url: 'http://guzhaolun.github.io/design/intro/'
+    text: '机器学习博大精深，自从选择了这个方向，屌丝也能天天ML了，真是爽！'
+    image: unsplash_3.jpg
 ---
 
 
