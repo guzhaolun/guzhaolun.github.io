@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "开篇！"
-    url: 'http://guzhaolun.github.io/blog/test'
+    url: 'http://guzhaolun.github.io/blog/test/'
     text: '记录下自己学习的点滴，希望可以坚持！'
     image: unsplash_9-302x182.jpg
 widget-2:
